@@ -208,7 +208,7 @@ export const faqs = [
   },
   {
     q: 'How do I get started with a tuition request?',
-    a: 'Fill out the enquiry form on our Contact page, and it will generate a WhatsApp message to send us your details. You can also call us directly at 6302267422 to discuss your requirements over the phone. Either way, we respond quickly to get the process moving.',
+    a: 'Fill out the enquiry form on our Contact page, and it will generate a WhatsApp message to send us your details. You can also call us directly at 8179018272 to discuss your requirements over the phone. Either way, we respond quickly to get the process moving.',
   },
 ] as const
 

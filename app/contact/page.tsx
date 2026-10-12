@@ -12,7 +12,7 @@ import { siteConfig, telHref } from '@/lib/site-config'
 export const metadata: Metadata = {
   title: 'Contact Us',
   description:
-    'Contact Ajay Home Tuitions in Vanasthalipuram, Hyderabad — call 6302267422, send a WhatsApp enquiry, or use the tuition enquiry form to share your requirement.',
+    'Contact Ajay Home Tuitions in Vanasthalipuram, Hyderabad — call 8179018272, send a WhatsApp enquiry, or use the tuition enquiry form to share your requirement.',
   alternates: { canonical: '/contact' },
 }
 

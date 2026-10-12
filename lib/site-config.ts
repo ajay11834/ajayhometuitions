@@ -2,9 +2,9 @@ export const siteConfig = {
   name: 'Ajay Home Tuitions',
   tagline: 'Learn with clarity. Grow with confidence.',
   url: 'https://ajayhometuitions.com',
-  phone: '6302267422',
-  whatsapp: '6302267422',
-  whatsappIntl: '916302267422',
+  phone: '8179018272',
+  whatsapp: '8179018272',
+  whatsappIntl: '918179018272',
   email: 'ajayhometuitions30@gmail.com',
   address:
     'Flat Number 301, Sharada Nagar, Sai Nagar, Shanti Nagar, Vanasthalipuram, Hyderabad, Telangana 500070',
@@ -20,7 +20,7 @@ export const siteConfig = {
     'https://www.google.com/maps/search/?api=1&query=8HFQ%2BW4%20Hyderabad%2C%20Telangana',
   mapEmbedUrl:
     'https://www.google.com/maps?q=8HFQ%2BW4%20Hyderabad%2C%20Telangana&output=embed',
-  logo: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Ajjay%20Home%20Tuitions-1%20-LpPfaIvooaBOZNUCiqijsKAPfVPoS4.png',
+  logo: '/ajay-home-tuitions-logo.png',
 } as const
 
 export const telHref = `tel:${siteConfig.phone}`
